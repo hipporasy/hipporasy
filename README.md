@@ -31,6 +31,6 @@ I am a software engineer, I love start-up, love being involved in Entrepreneursh
 
 [![Hipporasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hipporasy&count_private=true&theme=dracula)](https://hipporasy.tech)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hipporasy&theme=dracula)](https://hipporasy.tech)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hipporasy&theme=dracula&count_private=true)](https://hipporasy.tech)
 
 
