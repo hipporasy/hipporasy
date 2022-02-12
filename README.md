@@ -30,5 +30,4 @@ I am a software engineer, I love start-up, love being involved in Entrepreneursh
 - 🐳 Docker, Docker Compose, Kubernetes, EKS, AWS, Doctl
 
 More Info => [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](hipporasy.tech)  
-
-[![Hipporasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hipporasy)](https://github.com/anuraghazra/github-readme-stats)
+[![Hipporasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hipporasy&count_private=true&theme=dracula)]stats)
