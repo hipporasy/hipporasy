@@ -29,6 +29,8 @@ I am a software engineer, I love start-up, love being involved in Entrepreneursh
 - 🙈 Git, Github, Git Flow
 - 🐳 Docker, Docker Compose, Kubernetes, EKS, AWS, Doctl
 
-[![Hipporasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hipporasy&count_private=true&theme=dracula)]
+![Hipporasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hipporasy&count_private=true&theme=dracula)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](hipporasy.tech)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hipporasy)
+
+
