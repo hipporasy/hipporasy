@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hipporasy/hipporasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Marasy 👋
+### Hi, I'm Marasy 👋
 
-Lead Developer at Haystack Labs <> iOS Developer at Hanso
+## Lead Developer at Haystack Labs <> iOS Developer at Hanso
 
 I love building amazing products.
 I am a software engineer, I love start-up, love being involved in Entrepreneurship
@@ -30,3 +28,5 @@ I am a software engineer, I love start-up, love being involved in Entrepreneursh
 - 👨‍💻 Nest.js, NodeJS
 - 🙈 Git, Github, Git Flow
 - 🐳 Docker, Docker Compose, Kubernetes, EKS, AWS, Doctl
+
+[![Hipporasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hipporasy)](https://github.com/anuraghazra/github-readme-stats)
