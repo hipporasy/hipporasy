@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Marasy 👋
 
-## Lead Developer at Haystack Labs <> Software Developer at Hanso
+## Mobile Software Engineer at [Bilue](https://bilue.com.au)
 
 I love building amazing products.
 I am a software engineer, I love start-up, love being involved in Entrepreneurship
@@ -29,6 +29,6 @@ I am a software engineer, I love start-up, love being involved in Entrepreneursh
 - 🙈 Git, Github, Git Flow
 - 🐳 Docker, Docker Compose, Kubernetes, EKS, AWS, Doctl
 
-[![Hipporasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hipporasy&count_private=true&theme=dracula)](https://hipporasy.tech)
+[![Hipporasy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hipporasy&count_private=true&theme=dracula)](https://hipporasy.codes)
 
 
