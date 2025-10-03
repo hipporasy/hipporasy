@@ -15,18 +15,27 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Marasy 👋
 
-## Mobile Software Engineer at [Bilue](https://bilue.com.au)
+## Senior Software Engineer at [Bilue](https://bilue.com.au)
 
-I love building amazing products.
-I am a software engineer, I love start-up, love being involved in Entrepreneurship
+- Currently hacking together an app for fun 🚀 while exploring how to test ideas in the market  
+- Always experimenting with projects that mix learning, fun, and real-world validation  
+- I make bugs and eat them every day 🐛🍴  
+
 
 ✨ Skills and Experiences ✨
 
 -  SwiftUI, Swift, iOS
-- 🤖 ComposeUI, Kotlin, Android
+- 🤖 Compose, Kotlin, Android
 - 📱 Flutter, K/N, R/N
 - 👨‍💻 Nest.js, NodeJS
 - 🙈 Git, Github, Git Flow
 - 🐳 Docker, Docker Compose, Kubernetes, EKS, AWS, Doctl
 
+---
 
+📚 **Currently Learning**  
+- Market validation & user testing  
+- Advanced Kubernetes deployments  
+- Preparing for **AWS AI** + **AWS DevOps Pro** certifications  
+
+---
