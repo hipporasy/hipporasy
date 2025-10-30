@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 📚 **Currently Learning**  
 - Market validation & user testing  
 - Advanced Kubernetes deployments  
-- Preparing for **AWS AI** + **AWS DevOps Pro** certifications  
+- Preparing for **AWS AI** + **AWS SSA Pro** certifications  
 
 ---
